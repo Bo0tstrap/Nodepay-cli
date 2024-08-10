@@ -1,7 +1,4 @@
-Nodepay terminal üzerinden çalışıtırmak için py oluşturma
 # Kurulum Talimatları
-
-Aşağıdaki adımları izleyerek gerekli scripti indirebilir ve çalıştırabilirsiniz.
 
 1. Paket listelerini güncelleyin:
 
@@ -27,7 +24,13 @@ Aşağıdaki adımları izleyerek gerekli scripti indirebilir ve çalıştırabi
     chmod +x nodepay_setup.sh
     ```
 
-5. Scripti belirttiğiniz URL ile çalıştırın:
+5. Yeni bir `screen` oturumu başlatın:
+
+    ```bash
+    screen -S nodepay
+    ```
+
+6. Scripti belirttiğiniz URL ile çalıştırın:
 
     ```bash
     ./nodepay_setup.sh
