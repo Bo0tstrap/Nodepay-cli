@@ -35,7 +35,7 @@
     ```bash
     ./nodepay_setup.sh
     ```
-7. Gerekli izini verelim:
+7. Gerekli izni verelim:
 
     ```bash
     chmod +X Nodepay-cli/nodepay.py
