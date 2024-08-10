@@ -45,7 +45,10 @@
 
     ```bash
     python3 Nodepay-cli/nodepay.py
-    ``` 
+    ```
+
+    ![np](https://github.com/user-attachments/assets/731dd642-46f2-41f4-9de5-60df7e34a1bf)
+
 
 
 
