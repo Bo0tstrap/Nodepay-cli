@@ -47,10 +47,7 @@
     python3 Nodepay-cli/nodepay.py
     ``` 
 
-Siznden NP token isteyecek Nodepay dashboard a gelip F12 yapalım ve aşağıdaki yerden tokeni alalım
 
 
-    
 
-    ![np](https://github.com/user-attachments/assets/b0a5ddc4-3ac6-45ee-a5b3-ada3c6a9fe84)
 
