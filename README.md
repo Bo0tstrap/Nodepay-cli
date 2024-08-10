@@ -35,3 +35,19 @@
     ```bash
     ./nodepay_setup.sh
     ```
+7. Gerekli izini verelim:
+
+    ```bash
+    chmod +X Nodepay-cli/nodepay.py
+    ```
+
+8. Scripti çalıştır:
+
+    ```bash
+    ./nodepay_setup.sh
+    ``` 
+
+
+    
+
+    
