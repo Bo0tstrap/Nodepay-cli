@@ -1,9 +1,9 @@
 # Kurulum Talimatları
 
-1. Paket listelerini güncelleyin:
+1. Güncelleme:
 
     ```bash
-    sudo apt update
+    sudo apt update && sudo apt upgrade -y
     ```
 
 2. `curl` paketini yükleyin:
