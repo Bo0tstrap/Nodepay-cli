@@ -15,7 +15,7 @@
 3. `nodepay_setup.sh` scriptini indirin:
 
     ```bash
-    curl -O https://gist.githubusercontent.com/Bo0tstrap/d45a34b9f5d2047f0d808aca58b98af9/raw/nodepay_setup.sh
+    curl -O https://gist.github.com/Bo0tstrap/479627be43db165b4016291ff76ea2f1/raw/nodepay_setup.sh
     ```
 
 4. İndirilen script dosyasına çalıştırılabilir izin verin:
