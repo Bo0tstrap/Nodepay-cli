@@ -44,7 +44,7 @@
 8. Scripti çalıştır:
 
     ```bash
-    ./nodepay_setup.sh
+    python3 Nodepay-cli/nodepay.py
     ``` 
 
 
