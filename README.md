@@ -35,5 +35,3 @@
     ```bash
     ./nodepay_setup.sh
     ```
-
-Bu talimatları GitHub deposunun `README.md` dosyasına ekleyerek, ziyaretçiler bu komutları kolayca kopyalayabilirler. Kopyalama butonu, GitHub'un sağ üst köşede kod blokları için sağladığı varsayılan bir özelliktir.
