@@ -30,7 +30,7 @@ def filter_non_empty_lines(lines):
 NP_TOKEN = read_single_line_file(os.path.join(script_dir, 'token.txt'))
 
 # Sabitler
-HTTPS_URL = "https://api.nodepay.org/api/auth/session"
+HTTPS_URL = "https://nw3.nodepay.org/api/auth/session"
 RETRY_INTERVAL = 60  # Başarısız proxy'ler için yeniden deneme aralığı (saniye cinsinden)
 EXTENSION_VERSION = "2.2.3"
 
